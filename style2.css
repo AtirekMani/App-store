@@ -57,7 +57,7 @@ align-items: center;
 }
 #main::before{
     content: " ";
-    background-image: url(/bkg.webp) ;
+    background-image: url(bkg.webp) ;
     position: absolute;
     top: 0px;
     left: 0px;
